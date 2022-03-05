@@ -64,7 +64,7 @@ I enjoy creating new ideas and developing workable solutions to widely relevant 
 ![Word](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-![VegasPro](https://i.imgur.com/JZBJKVy.jpg)
+![VegasPro](https://cdn2.iconfinder.com/data/icons/circular-icon-set/256/Sony_Vegas_Pro.png)
 ![Lightroom](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/788px-Adobe_Photoshop_Lightroom_CC_logo.svg.png)
 
 <div>
