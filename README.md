@@ -16,7 +16,7 @@
 
 :computer: I'm Full-Stack Developer!
 
-:house_with_garden: I’m from Brazil :brazil:.
+:house_with_garden: I’m from Brazil. <span>&#x1f1e7;&#x1f1f7;</span>
 
 :books: I have been programming since 2019. I'm currently studying `Java`, `React` and `MySQL`.
 
