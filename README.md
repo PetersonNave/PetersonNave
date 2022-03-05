@@ -4,9 +4,9 @@
 
 <div align='center'>
  # Welcome!
- ![cat](https://user-images.githubusercontent.com/61744533/156881811-c33712a0-0026-4cc3-a84c-99dfcce5a168.svg)
 </div>
-
+ ![cat](https://user-images.githubusercontent.com/61744533/156881811-c33712a0-0026-4cc3-a84c-99dfcce5a168.svg)
+ 
 ## I'm Peterson Melo!
 
  
