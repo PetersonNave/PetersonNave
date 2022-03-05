@@ -54,18 +54,19 @@ I enjoy creating new ideas and developing workable solutions to widely relevant 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### Extras:
 
+
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Word](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-![VegasPro](https://cdn2.iconfinder.com/data/icons/circular-icon-set/256/Sony_Vegas_Pro.png)
-![Lightroom](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/788px-Adobe_Photoshop_Lightroom_CC_logo.svg.png)
+![Photoshop](https://user-images.githubusercontent.com/61744533/156882799-6251caee-1b0b-43a3-8b91-336ca57c8ab2.png)
+![vegasPro](https://user-images.githubusercontent.com/61744533/156882807-357662b7-27ba-45cc-bb20-80d4623b8f9e.png)
+![Lightroom](https://user-images.githubusercontent.com/61744533/156882821-161240ba-fd22-486e-b03e-75c9efaeacf6.png)
+![OBS Studio](https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
 
 <div>
 <a href="https://github.com/PetersonNave">
