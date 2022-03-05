@@ -14,14 +14,11 @@
 
  
 
-:computer: I'm Full-Stack Developer!
+:computer: I'm `Full-Stack` Developer!
 
 :house_with_garden: I’m from Brazil. <span>&#x1f1e7;&#x1f1f7;</span>
 
 :books: I have been programming since 2019. I'm currently studying `Java`, `React` and `MySQL`.
-
-:outbox_tray: 2021 Goals: create a new project and find a new job.
-
  
 
 ## About me
@@ -33,11 +30,6 @@ I enjoy creating new ideas and developing workable solutions to widely relevant 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peterson-melo/)](https://www.linkedin.com/in/peterson-melo/)
 
-- Thanks for visiting.
-
-- Enjoy it!! o/
-
----
 
 ### Languages and Tools:
 
@@ -81,3 +73,8 @@ I enjoy creating new ideas and developing workable solutions to widely relevant 
 
 ----------------------------------------------------------------------------------
 
+ - Thanks for visiting.
+
+- Enjoy it!! o/
+
+---
