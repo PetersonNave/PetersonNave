@@ -20,6 +20,7 @@
 
 :books: I have been programming since 2019. I'm currently studying `Java`, `React` and `MySQL`.
  
+---
 
 ## About me
 
@@ -33,6 +34,8 @@ I enjoy creating new ideas and developing workable solutions to widely relevant 
 [![Gmail Badge](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:petersonj.melo@gmail.com)](mailto:petersonj.melo@gmail.com)
 
 </div>
+
+---
 
 ### Languages and Tools:
 
