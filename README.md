@@ -28,7 +28,7 @@ I enjoy creating new ideas and developing workable solutions to widely relevant 
 
 <div align='center'>
  
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PetersonNave)](https://github.com/PetersonNave)
+[![Gmail Badge](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:petersonj.melo@gmail.com)](mailto:petersonj.melo@gmail.com)
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peterson-melo/)](https://www.linkedin.com/in/peterson-melo/)
 </div>
