@@ -26,10 +26,10 @@
 -I'm currently looking for opportunities that allow me to develop and promote technologies that I learned during that time as a programming student.
 I enjoy creating new ideas and developing workable solutions to widely relevant problems.
 
+<div align='center'>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PetersonNave)](https://github.com/PetersonNave)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peterson-melo/)](https://www.linkedin.com/in/peterson-melo/)
-
+</div>
 
 ### Languages and Tools:
 
@@ -64,6 +64,10 @@ I enjoy creating new ideas and developing workable solutions to widely relevant 
 ![vegasPro](https://user-images.githubusercontent.com/61744533/156882807-357662b7-27ba-45cc-bb20-80d4623b8f9e.png)
 ![Lightroom](https://user-images.githubusercontent.com/61744533/156882821-161240ba-fd22-486e-b03e-75c9efaeacf6.png)
 ![OBS Studio](https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
+
+---
+
+# Github Stats
 
 <div>
 <a href="https://github.com/PetersonNave">
